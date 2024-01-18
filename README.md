@@ -1,1 +1,1 @@
-# Hotel-Identification-for-Investigations
+# StackedCNN_BlendFlip
